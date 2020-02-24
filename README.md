@@ -2,9 +2,7 @@
 
 ---
 
-## MongoDB
-
-### [official document](http://docs.mongodb.org/manual/reference/sql-comparison/#sql-to-mongodb-mapping-chart)
+## MongoDB - [official document](http://docs.mongodb.org/manual/reference/sql-comparison/#sql-to-mongodb-mapping-chart)
 
 SQL to MongoDB Mapping Chart
 
